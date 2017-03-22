@@ -63,7 +63,11 @@ Constructs a new axis generator object for the given with ready for drawing in t
 
 <a name="TickPadding" href="#TickPadding">#</a> Axis.<b>TickPadding</b>(<i>padding **Number**</i>)
 
+  This function specify the distance between tick and the tick lable, and it takes a positive integer and validate it see [ErrorHandler](https://github.com/ChartsLab/) for more details.
+
 <a name="TickNumber" href="#TickNumber">#</a> Axis.<b>TickNumber</b>(<i>tickNumber **Number**</i>)
+  
+  This function set the number of tick in the axis, and it takes a positive integer bigger than 1 and it's default is 10 ticks
 
 <a name="InnerTickNumber" href="#InnerTickNumber">#</a> Axis.<b>InnerTickNumber</b>(<i>innerTickNumber **Number**</i>)
 
