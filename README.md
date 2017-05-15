@@ -78,3 +78,4 @@ Constructs a new axis generator object for the given with ready for drawing in t
 <a name="DashedTick" href="#DashedTick">#</a> Axis.<b>DashedTick</b>(<i>flag **Boolean**</i>)
 
 
+![ChartsLab-Axis](/Images/ChartsLab-AxisSeq-1.JPG)
